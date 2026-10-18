@@ -2,11 +2,14 @@
 
 <img src="assets/calcifer.gif" alt="" align="right" width="220" height="220" />
 
-- Know as *"The most unFinance Business Student"*
+- Known as *"The Most Un-Finance Business Student"*
 - DBA @ Siemens Energy and prev. Project Manager Office Intern @ UCF
 - Treasurer @ AI Racer (formerly known as F1Tenth)
 - Big fan of [Victoria II](https://www.paradoxinteractive.com/games/victoria-ii/about)
-<p align="center"> <a href="https://www.linkedin.com/in/Humbertobohorquez/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a></p>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/Humbertobohorquez/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+<a href="mailto:humberto.bohorquez03@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
+</p>
 
 <div align="center">
   <br />
