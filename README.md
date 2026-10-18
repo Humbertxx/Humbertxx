@@ -6,7 +6,7 @@
 - DBA @ Siemens Energy and prev. Project Manager Office Intern @ UCF
 - Treasurer @ AI Racer (formerly known as F1Tenth)
 - Big fan of Victoria II 
-<p align="center"> <a href="https://www.linkedin.com/in/amyhakim5/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/Humbertobohorquez/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a></p>
 
 <div align="center">
   <br />
@@ -24,7 +24,7 @@
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126l/4934._SX98_.jpg" alt="" align="left" height="90" hspace="10" /><strong><a href="https://www.goodreads.com/book/show/4934">The Brothers Karamazov</a></strong><br /><sub>Fyodor Dostoevsky</sub><br clear="left" />
 <!-- BOOKS:END -->
 
-<sub>Pulled from <a href="https://www.goodreads.com/review/list/169154558">Goodreads</a>, updated daily.</sub>
+<sub>Pulled from <a href="https://www.goodreads.com/review/list/">Goodreads</a>, updated daily.</sub>
 
 ## Projects
 **anarchy_project** a NLP project :p 
