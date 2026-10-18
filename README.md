@@ -7,7 +7,8 @@
 - Treasurer @ AI Racer (formerly known as F1Tenth)
 - Big fan of [Victoria II](https://www.paradoxinteractive.com/games/victoria-ii/about)
 <p align="center"> 
-<a href="https://www.linkedin.com/in/Humbertobohorquez/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a><a href="mailto:humberto.bohorquez03@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
+<a href="https://www.linkedin.com/in/Humbertobohorquez/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+<a href="mailto:humberto.bohorquez03@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
 </p>
 
 <div align="center">
