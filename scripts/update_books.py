@@ -7,16 +7,21 @@ import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from html import escape
-from pathlib import Path
 from config import FEED, HEADERS, START, END, README
 
 
 
 def main():
+    missing = [name for name in ("USER_ID", "SHELF") if not os.getenv(name, "").strip()]
+    if missing:
+        raise SystemExit("Missing required settings: " + ", ".join(missing)
+            + ". Configure them as GitHub Actions repository secrets.")
+
     try:
         books = parse(fetch(FEED))
     except (urllib.error.URLError, ET.ParseError) as exc:
         print(f"could not refresh shelf: {exc}", file=sys.stderr)
+        raise SystemExit(1) from exc
     
     current = README.read_text()
     updated = splice(current, render(books))

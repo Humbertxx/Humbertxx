@@ -12,6 +12,12 @@ permissions:
 jobs:
   books:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    env:
+      USER_ID: ${{ secrets.USER_ID }}
+      SHELF: ${{ secrets.SHELF }}
+
     steps:
       - uses: actions/checkout@v4
 
