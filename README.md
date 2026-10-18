@@ -2,7 +2,7 @@
 
 <img src="assets/calcifer.gif" alt="" align="right" width="220" height="220" />
 
-- Know as *"The most unFinance Business Student"*
+- Known as *"The Most Un-Finance Business Student"*
 - DBA @ Siemens Energy and prev. Project Manager Office Intern @ UCF
 - Treasurer @ AI Racer (formerly known as F1Tenth)
 - Big fan of [Victoria II](https://www.paradoxinteractive.com/games/victoria-ii/about)
