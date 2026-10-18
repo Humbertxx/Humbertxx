@@ -30,7 +30,7 @@
 <sub>Pulled from <a href="https://www.goodreads.com/review/list/">Goodreads</a>, updated daily.</sub>
 
 ## Projects
-Working on [anarchy_project](https://github.com/Humbertxx/anarchy_project) a NLP project :p 
+Working on [AnarLib](https://github.com/Humbertxx/AnarLib) a NLP project :p 
 
 Working on [Better_NAS](https://github.com/Humbertxx/Better-NAS) a personal cloud project o7
 
