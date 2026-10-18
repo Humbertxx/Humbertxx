@@ -1,11 +1,11 @@
-# 📊 About me
+# 📀 whoami
 
 <img src="assets/calcifer.gif" alt="" align="right" width="220" height="220" />
 
 - Know as *"The most unFinance Business Student"*
 - DBA @ Siemens Energy and prev. Project Manager Office Intern @ UCF
 - Treasurer @ AI Racer (formerly known as F1Tenth)
-- Big fan of Victoria II 
+- Big fan of [Victoria II](https://www.paradoxinteractive.com/games/victoria-ii/about)
 <p align="center"> <a href="https://www.linkedin.com/in/Humbertobohorquez/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a></p>
 
 <div align="center">
@@ -27,9 +27,10 @@
 <sub>Pulled from <a href="https://www.goodreads.com/review/list/">Goodreads</a>, updated daily.</sub>
 
 ## Projects
-**anarchy_project** a NLP project :p 
+Working on [anarchy_project](https://github.com/Humbertxx/anarchy_project) a NLP project :p 
+Working on [Better_NAS](https://github.com/Humbertxx/Better-NAS) a personal cloud project o7
 
-## Tech Stack:
+## Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -45,7 +46,8 @@
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-# 📊 GitHub Stats:
+
+## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=Humbertxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Humbertxx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Humbertxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
