@@ -28,6 +28,7 @@
 
 ## Projects
 Working on [anarchy_project](https://github.com/Humbertxx/anarchy_project) a NLP project :p 
+
 Working on [Better_NAS](https://github.com/Humbertxx/Better-NAS) a personal cloud project o7
 
 ## Tech Stack
